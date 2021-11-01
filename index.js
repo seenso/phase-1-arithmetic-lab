@@ -6,7 +6,7 @@ const num2 = Number(2);
 let multiply = Number(num1) * Number(num2);
 
 //random
-let random = Math.floor(Math.random() * 100) + 1; //gen num between 1 and 100
+let random = Math.floor(Math.random() * 100) + 1; //generate number between 1 and 100
 
 //mod
 const num3 = 14;
