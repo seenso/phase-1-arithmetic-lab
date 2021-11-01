@@ -9,6 +9,8 @@ let multiply = Number(num1) * Number(num2);
 let random = Math.floor(Math.random() * 100) + 1; //gen num between 1 and 100
 
 //mod
-
+const num3 = 14;
+const num4 = 5;
+let mod = num3 % num4;
 
 //max
