@@ -19,4 +19,5 @@ set.add(4);
 set.add(20);
 set.add(15);
 set.add(8);
+//alternatively I was going to have set equal to an array ,[4, 20, 15, 8].
 let max = Math.max(...set);
