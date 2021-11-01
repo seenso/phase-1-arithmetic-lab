@@ -14,3 +14,9 @@ const num4 = 5;
 let mod = num3 % num4;
 
 //max
+const set = new Set(); // wasn't sure if "set" was a variable, or a Set object... so I did both...
+set.add(4);
+set.add(20);
+set.add(15);
+set.add(8);
+let max = Math.max(...set);
